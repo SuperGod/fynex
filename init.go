@@ -1,0 +1,5 @@
+package fynex
+
+func init() {
+
+}
